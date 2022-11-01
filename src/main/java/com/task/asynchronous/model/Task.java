@@ -1,6 +1,5 @@
 package com.task.asynchronous.model;
 
-import com.fasterxml.jackson.annotation.JsonInclude;
 import com.task.asynchronous.enums.TaskStatus;
 import lombok.AllArgsConstructor;
 import lombok.Data;

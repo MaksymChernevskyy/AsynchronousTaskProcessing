@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="507d23fc-f385-4886-a306-7e5c2ab91636" name="Changes" comment="async task">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="507d23fc-f385-4886-a306-7e5c2ab91636" name="Changes" comment="readme">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/task/asynchronous/config/GlobalExceptionHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/task/asynchronous/exception/GlobalExceptionHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/task/asynchronous/model/Task.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/task/asynchronous/model/Task.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +18,8 @@
       <list>
         <option value="Enum" />
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -43,13 +43,16 @@
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
     "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
     "create.test.in.the.same.root": "true",
-    "last_opened_file_path": "C:/Users/Maksym.Chernevskyy/IdeaProjects/asyncTask",
+    "last_opened_file_path": "C:/Users/Maksym.Chernevskyy/Desktop/task",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Maksym.Chernevskyy\Desktop\task" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
     </key>
@@ -93,7 +96,28 @@
       <option name="project" value="LOCAL" />
       <updated>1667315132912</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="dockerfile">
+      <created>1667315884428</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1667315884428</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gitignore">
+      <created>1667315912329</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1667315912329</updated>
+    </task>
+    <task id="LOCAL-00004" summary="readme">
+      <created>1667315961838</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1667315961838</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -109,6 +133,9 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="async task" />
-    <option name="LAST_COMMIT_MESSAGE" value="async task" />
+    <MESSAGE value="dockerfile" />
+    <MESSAGE value="gitignore" />
+    <MESSAGE value="readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="readme" />
   </component>
 </project>

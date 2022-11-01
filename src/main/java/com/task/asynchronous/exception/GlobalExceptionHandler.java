@@ -1,4 +1,4 @@
-package com.task.asynchronous.config;
+package com.task.asynchronous.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.validation.FieldError;
